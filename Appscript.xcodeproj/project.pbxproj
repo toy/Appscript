@@ -891,7 +891,7 @@
 				4FF1E92810C82C87002064A3 /* Release_10.5_32_64_GC_embed */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release_10.4_32;
+			defaultConfigurationName = Release_10.5_32_64_GC_embed;
 		};
 		1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "Appscript" */ = {
 			isa = XCConfigurationList;
@@ -904,7 +904,7 @@
 				4FF1E92710C82C87002064A3 /* Release_10.5_32_64_GC_embed */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release_10.4_32;
+			defaultConfigurationName = Release_10.5_32_64_GC_embed;
 		};
 		4FED708A0D2E6B64003412D7 /* Build configuration list for PBXNativeTarget "objc-appscript-test" */ = {
 			isa = XCConfigurationList;
@@ -917,7 +917,7 @@
 				4FF1E92910C82C87002064A3 /* Release_10.5_32_64_GC_embed */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release_10.4_32;
+			defaultConfigurationName = Release_10.5_32_64_GC_embed;
 		};
 /* End XCConfigurationList section */
 	};
