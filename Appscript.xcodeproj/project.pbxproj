@@ -543,6 +543,7 @@
 				INSTALL_PATH = "";
 				PREBINDING = NO;
 				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug_10.4;
 		};
@@ -560,6 +561,7 @@
 				INSTALL_PATH = "";
 				PREBINDING = NO;
 				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release_10.4_32;
 		};
@@ -577,6 +579,7 @@
 				INSTALL_PATH = "@loader_path/../Frameworks";
 				PREBINDING = NO;
 				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release_10.4_32_embed;
 		};
@@ -641,6 +644,7 @@
 				INSTALL_PATH = "";
 				PREBINDING = NO;
 				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release_10.5_32_64_GC;
 		};
@@ -755,6 +759,7 @@
 				INSTALL_PATH = "@loader_path/../Frameworks";
 				PREBINDING = NO;
 				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release_10.5_32_64_GC_embed;
 		};
@@ -811,6 +816,7 @@
 				INSTALL_PATH = "";
 				PREBINDING = NO;
 				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug_10.5;
 		};
